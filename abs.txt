@@ -12,4 +12,4 @@ git add file
 git commit -m ""
 git push origin kawano
 
-yoro
+yorosiku
