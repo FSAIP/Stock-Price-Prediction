@@ -1,9 +1,9 @@
-# FSAP is the abbreviation of First Study AI Project
+# 1. FSAP is the abbreviation of First Study AI Project
 
 URL: ```https://github.com/FSAIP/nlp.git```
 
 
-# git commands
+# 2. git command lines
 ## Change directory to <repository>
 ``` cd <repository> ```
 
@@ -20,13 +20,13 @@ git commit -m "<comment>"         # commit
 git push origin <branch or main>          # push to origin/branch
 ```
 
-## copy a file from one branch to another
+## Copy a file from one branch to another
 ```
 git checkout <paste_branch>
 git checkout <copy_branch> <file_name> 
 ```
 
-## delete a branch
+## Delete a branch
 ```
 git branch -d <branch>
 ```
