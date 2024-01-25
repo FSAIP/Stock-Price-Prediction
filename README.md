@@ -1,9 +1,9 @@
-"# nlp"
-```
-URL: "https://github.com/FSAIP/nlp.git"
+"<FSAP> is the abbreviation of First Study AI Project"
 
-<FSAP> is the abbreviation of "First Study AI Project"
-```
+URL: ```https://github.com/FSAIP/nlp.git```
+
+
+
 
 git commands
 change directory to <repository>
