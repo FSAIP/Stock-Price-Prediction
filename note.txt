@@ -1,0 +1,15 @@
+https://github.com/FSAIP/nlp.git
+
+First Study AI Project.
+
+
+git branch kawano
+git branch
+git checkout kawano
+
+git add file
+
+git commit -m ""
+git push origin kawano
+
+yorosiku
