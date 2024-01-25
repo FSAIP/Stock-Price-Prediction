@@ -1,6 +1,6 @@
 # 1. FSAP is the abbreviation of First Study AI Project
 
-<URL:> ```https://github.com/FSAIP/nlp.git```
+URL: ```https://github.com/FSAIP/nlp.git```
 
 
 # 2. git command lines
