@@ -37,3 +37,4 @@ model.fit(train_images, train_labels, epochs=5, batch_size=64, validation_split=
 # モデルの評価
 test_loss, test_acc = model.evaluate(test_images, test_labels)
 print(f'Test accuracy: {test_acc}')
+print("kawano")
